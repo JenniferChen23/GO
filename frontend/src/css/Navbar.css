@@ -1,0 +1,29 @@
+/* Add a black background color to the sidebar */
+.sidebar {
+	background-color: #333;
+	height: 100vh;
+	width: 200px;
+	position: fixed;
+	overflow: auto;
+  }
+  
+  /* Style the links inside the sidebar */
+  .sidebar a {
+	display: block;
+	color: #f2f2f2;
+	padding: 16px;
+	text-decoration: none;
+	font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .sidebar a:hover {
+	background-color: #ddd;
+	color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .sidebar a.active {
+	background-color: #04AA6D;
+	color: white;
+  }
