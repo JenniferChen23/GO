@@ -5,7 +5,7 @@
 > backend: Flask, Python
 
 ## Project Overview
-一個團購平台，透過串接 LineBOT 建置訂購介面來降低婆媽的學習成本，提升使用此平台的意願
+一個團購平台，透過串接 LineBOT 建置訂購介面來降低婆媽的學習成本，提升使用此團購平台的意願。
 
 
 ## To set up database
