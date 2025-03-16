@@ -5,9 +5,7 @@
 > backend: Flask, Python
 
 ## Project Overview
-[🔗 展示影片連結](https://www.youtube.com/watch?v=QPGB96r7pdg)
-
-「好書 sharing」是一個提升閱讀體驗及樂趣的平台，用戶可以在此分享最真實的閱讀感受、推薦自己喜愛的書籍及追蹤與其品味相似同好，降低尋找好書的搜尋成本。對於熱愛閱讀的人而言，這將是一個最真實、實用的交流空間。
+一個團購平台，透過串接 LineBOT 建置訂購介面來降低婆媽的學習成本，提升使用此平台的意願
 
 
 ## To set up database
